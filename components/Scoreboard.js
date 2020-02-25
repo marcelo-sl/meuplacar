@@ -122,8 +122,8 @@ const styles = StyleSheet.create({
   },
   playerName: {
     textAlign: 'center',
-    fontSize: 13,
-    height: 35,
+    fontSize: 15,
+    height: 40,
     marginTop: 10,
     borderWidth: 1,
     borderRadius: 2,
